@@ -6,3 +6,5 @@
 #     https: false
 #   )
 # end
+
+Dotenv::Railtie.load
